@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    border: 2px solid;
+    padding: 5px;
+    border-radius: 5px; 
+    background-color: #302e2e;
+}
+
+.chapter {
+    cursor: pointer;
+    /* border: 1.5px solid;
+    padding: 2px;
+    border-radius: 5px;  */ 
+    /* todo: нужно поставить на псевдо-класс active после того как приложение станет интереактивным */
+}
