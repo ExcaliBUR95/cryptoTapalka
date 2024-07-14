@@ -1,4 +1,5 @@
-import { MenuItem } from "@/app/shared/layout/ui/MenuItem";
+
+import { MenuItem } from "@/shared/layout/ui/MenuItem";
 import React from "react";
 
 const menuItem = [
