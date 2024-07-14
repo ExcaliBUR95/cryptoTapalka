@@ -1,6 +1,6 @@
 "use client";
+import SvgSquare from "@/components/assets/SvgSquare";
 import React, { useState } from "react";
-import SvgSquare from "../components/assets/SvgSquare";
 
 
 export default function Tapalka() {

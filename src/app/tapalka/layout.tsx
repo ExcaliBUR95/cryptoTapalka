@@ -1,6 +1,5 @@
-
 import { Montserrat } from "next/font/google";
-import Footer from "../components/footer/Footer";
+import Footer from "../../components/footer/Footer";
 
 const montserrat = Montserrat({
   subsets: ["latin", "cyrillic"],
